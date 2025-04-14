@@ -2,15 +2,7 @@
 
 - 🛠️ **I'm currently working on**  
   - [ThunderTab Kanban](https://gaurav0973.github.io/ThunderTab_kanban_extension/) – A minimal and efficient Kanban board for task management. Planning to turn it into a **Chrome extension**!  
-  - **Taxi Sharing Platform** – A solution to reduce high taxi charges for short distances using **Node.js, MySQL, and JavaScript**.  
-  - **DigitalResume** – A project to build a digital resume platform for showcasing skills effectively.  
-
-- 🤝 **I'm looking to collaborate on**  
-  - **Power BI & Data Analytics Projects** 📊  
-  - **Open Source Contributions in Web Development & Data Science** 🌍  
-  - **Chrome Extensions & Productivity Tools** 🚀  
-  - **Competitive Programming & DSA Challenges**  
-
+  - learning backend
 - 🤝 **I'm looking for help with**  
   - Publishing my **Chrome extension** (requires a $5 developer fee – open to collaborations!).  
   - Advanced **DAX functions** in Power BI for better reporting.  
