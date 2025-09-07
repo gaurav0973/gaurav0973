@@ -1,32 +1,5 @@
 # 🌟 About Me
 
-- 🛠️ **Currently working on**  
-  - [ThunderTab Kanban](https://gaurav0973.github.io/ThunderTab_kanban_extension/) – A minimal Kanban board for task management (planning to turn into a Chrome extension 🚀).  
-  - Full-stack projects with **React, Node.js, Express, PostgreSQL/MongoDB**.  
-
-- 🤝 **Looking for help with**  
-  - Publishing my Chrome extension (requires a $5 developer fee – open to collaborations).  
-  - Advanced DAX functions in Power BI for better reporting.  
-  - OpenGL & graphics programming concepts.  
-
-- 🌱 **Currently learning**  
-  - Power BI & DAX 📊  
-  - Machine Learning & Gradient Descent 🤖  
-  - Advanced SQL queries & optimization 💾  
-  - Competitive programming (Backtracking, Sliding Window) 🧩  
-
-- 💬 **Ask me about**  
-  - SQL, Data Analysis, and Power BI  
-  - DSA (400+ problems solved)  
-  - Full-Stack Web Development (React, Node.js, Express, MongoDB, PostgreSQL)  
-  - Data Visualization (Matplotlib, Seaborn, Plotly)  
-  - Productivity & study hacks 🚀  
-
-- ⚡ **Fun fact**  
-  - I love building **real-world projects** more than just theory.  
-  - Improving my English by watching *Friends*! 🎬  
-
----
 
 ## 💼 Experience
 **Product Tech Intern @ Astraea Solutions (Jun 2025 – Jul 2025)**  
