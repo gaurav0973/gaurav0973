@@ -1,7 +1,8 @@
-# 👨‍💻 Gaurav Maurya
-**Full-Stack Developer | Problem Solver (1000+ DSA) | Open Source Enthusiast**
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Gaurav+Maurya!+%F0%9F%91%8B;Full-Stack+Developer;Tech+Content+Creator" alt="Typing SVG" />
+</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/gaurav-maurya0973"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/gauravkmaurya09"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -10,41 +11,63 @@
 ---
 
 ### 🚀 Quick Overview
-- 🎓 **B.Tech CSE** at Jaypee University of Information Technology (2022 – 2026).
-- 🏆 **Rank 5** on GeeksforGeeks (University-wide) | **1000+ problems** solved across LeetCode & GFG.
-- 💼 Former **Product Tech Intern** at Astraea Solutions; deployed scalable AWS modules for 200+ users.
-- 🛠️ Specialized in building **performant full-stack applications** and AI-driven marketplaces.
+- 🎓 **Education:** B.Tech CSE @ Jaypee University of Information Technology (2022 – 2026) | CGPA: 8.25.
+- 🏆 **Problem Solving:** **Rank 5** on GeeksforGeeks (University-wide) | Solved **1000+ DSA problems** combined across LeetCode & GFG.
+- 🌱 **Currently Exploring:** Mastering Node.js server architecture from first principles, taking on a 90-day speaking challenge, and sharing my tech journey on YouTube.
+- 💼 **Focus:** Building highly performant full-stack applications, secure APIs, and AI-driven marketplaces.
 
 ---
 
 ### 💼 Professional Experience
-**Product Tech Intern @ Astraea Solutions** *(Jun 2025 – Jul 2025)*
-- **Cloud Architecture:** Engineered a Cyber Range module on AWS, enabling hands-on training for 200+ students.
-- **Strategic Collaboration:** Partnered with professors from **3 IITs** to refine technical requirements and system architecture.
-- **Documentation:** Authored 25+ pages of deep-dive technical documentation for enterprise-level handovers.
+
+**Astraea Solutions**
+* **Product Tech Intern** *(Jun 2025 – Jul 2025)*
+  * Engineered and deployed a Cyber Range training module on AWS, scaling to support 200+ students.
+  * Collaborated directly with professors from **3 IITs** to align technical system architecture.
+  * Authored comprehensive 25+ page technical documentation for enterprise handover.
+* **Software Developer Intern** *(Jun 2024 – Jul 2024)*
+  * Contributed to core development tasks and collaborated with UI/UX teams to enhance the end-user learning experience.
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `C++` `JavaScript` `Python` `TypeScript` `Java` |
-| **Frontend** | `React` `Next.js` `Redux` `TailwindCSS` `Bootstrap` `Vite` |
-| **Backend** | `Node.js` `Express.js` `Bun` `REST APIs` `JWT` |
-| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `Prisma ORM` |
-| **DevOps & Cloud** | `AWS` `Docker` `Vercel` `Git` `Postman` |
-| **Data Science** | `TensorFlow` `PyTorch` `Scikit-learn` `NumPy` `Pandas` |
+<p align="left">
+  <strong>Languages:</strong><br/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
 
----
+<p align="left">
+  <strong>Frontend:</strong><br/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
+</p>
 
-### 🏗️ Featured Projects
+<p align="left">
+  <strong>Backend & Databases:</strong><br/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
+</p>
 
-* **[UniTrade AI Marketplace](https://github.com/gaurav0973/study-stash)** *An AI-driven P2P marketplace for students. Features JWT auth, Cloudinary integration, and advanced filtering.*
-* **[CampusCrush](https://github.com/gaurav0973/campusCrush-)** *Real-time matchmaking platform serving 500+ students. Built with the MERN stack and socket-based chat.*
-* **[AlgoQuest / LeetQuest](https://github.com/gaurav0973/leetQuest)** *A coding judge platform featuring a PostgreSQL/Prisma backend and Judge0 engine for remote code execution.*
+<p align="left">
+  <strong>Cloud & Tools:</strong><br/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" />
+</p>
 
----
 
 ### 📊 GitHub Activity
 <p align="center">
@@ -59,8 +82,4 @@
 ---
 
 ### ⚡ Fun Fact
-> I once considered opening a **Chai Shop**, but decided that debugging code is slightly less stressful than perfect tea-to-milk ratios. (Only slightly.)
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=gaurav0973&icon=5&color=0" alt="Visitor Count" />
-</p>
+> I once considered opening a **Chai Shop**, but decided that debugging code is slightly less stressful than finding the perfect tea-to-milk ratio. *(Only slightly.)*
